@@ -1,5 +1,2 @@
 test.gz
 train.gz
-X_train_dict.pkl
-X_test_dict.pkl
-Submission.csv
