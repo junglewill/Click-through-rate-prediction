@@ -1,4 +1,5 @@
 test.gz
 train.gz
-.pkl
-.csv
+X_train_dict.pkl
+X_test_dict.pkl
+Submission.csv
