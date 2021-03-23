@@ -1,2 +1,4 @@
 test.gz
 train.gz
+.pkl
+.csv
