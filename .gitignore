@@ -1,4 +1,6 @@
-.gz
+train_df.gz
+sj_test.gz
+test_modified.gz
 test.gz
 train.gz
 train_modified.gz
