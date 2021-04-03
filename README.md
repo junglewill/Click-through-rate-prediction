@@ -13,4 +13,5 @@ This is a mini Kaggle Competition held in the course of Machine Learning for Fin
 target encoding and sklearn’s FeatureHasher.
   2. Deep Learning models: MLP, existing neural networks libraries (deepctr and deeptables)
 
-For more information please check our final report: 
+For more information please check our <a href='https://github.com/junglewill/Click-through-rate-prediction/blob/master/Report_and_approach.pdf'>final report</a>. Feel free to contact me if you have any questions.
+
