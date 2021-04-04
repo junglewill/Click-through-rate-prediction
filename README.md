@@ -8,7 +8,7 @@ This is a mini Kaggle Competition held in the course of Machine Learning for Fin
   2. Feature engineering and data preprocessing
   3. Bayesian optimization for hyperparameter tuning using bootstrapped sample in 12 models, using CatBoost, XGBoost, and LightGBM.
   4. Bagging ensemble using weighted average
-
+</br></br>
 
 *notes: we also try out some of the following methods, but it didn't show as good results:
  * Experimented with other forms of encoding the categorical predictors, such as K-fold
