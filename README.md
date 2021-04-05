@@ -18,5 +18,5 @@ target encoding and sklearn’s FeatureHasher.
 
 
 _________________________________________
-For more information, please check our <a href='https://github.com/junglewill/Click-through-rate-prediction/blob/master/Report_and_approach.pdf'>final report</a>. Feel free to contact me if you have any questions. Thank you!
+For more detailed information, please check our <a href='https://github.com/junglewill/Click-through-rate-prediction/blob/master/Report_and_approach.pdf'>final report</a>. Feel free to contact me if you have any questions. Thank you!
 
